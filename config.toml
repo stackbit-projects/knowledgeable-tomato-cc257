@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "/"
 title = "Newsroom"
 theme = "newsroom"
 author = "Weru"
@@ -7,7 +7,7 @@ canonifyurls = true
 paginate = 6
 params = { }
 themesDir = "themes"
-baseURL = ""
+baseURL = "/"
 publishDir = "public"
 
 [markup.goldmark.renderer]
